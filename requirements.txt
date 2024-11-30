@@ -1,0 +1,10 @@
+psycopg2
+torch
+yaml
+pandas
+numpy
+nltk
+spacy
+sentence_transformers
+faiss
+flask
