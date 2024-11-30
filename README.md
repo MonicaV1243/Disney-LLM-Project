@@ -18,8 +18,9 @@ cd hotel-reviews-pipeline
 ```
 Install PostgreSQL on your system to serve as the relational database for storing structured data.
 Refer to the following detailed guide for installation and local setup:
-[How to Download, Install, and Locally Set Up PostgreSQL](https://talesofdancingcurls.medium.com/how-to-download-install-and-locally-set-up-postgresql-63f9ff4769aa)
 ```
+[How to Download, Install, and Locally Set Up PostgreSQL](https://talesofdancingcurls.medium.com/how-to-download-install-and-locally-set-up-postgresql-63f9ff4769aa)
+
 ### Step 3: Install the Python dependencies:
 Ensure you have Python 3.11 or higher installed on your system. Then, install the required dependencies:
 ```
